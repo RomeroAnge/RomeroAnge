@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola  Compañero Desarrollador 👋
+## My Nombre es Cristhian Romero Vega 😊
 
 <!--
 **RomeroAnge/RomeroAnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
